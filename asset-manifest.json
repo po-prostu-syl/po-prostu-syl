@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/po-prostu-syl.github.io/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/po-prostu-syl.github.io/static/js/main.ed8dd1c1.chunk.js",
+    "main.js.map": "/po-prostu-syl.github.io/static/js/main.ed8dd1c1.chunk.js.map",
+    "runtime-main.js": "/po-prostu-syl.github.io/static/js/runtime-main.482b0939.js",
+    "runtime-main.js.map": "/po-prostu-syl.github.io/static/js/runtime-main.482b0939.js.map",
+    "static/js/2.41b98a30.chunk.js": "/po-prostu-syl.github.io/static/js/2.41b98a30.chunk.js",
+    "static/js/2.41b98a30.chunk.js.map": "/po-prostu-syl.github.io/static/js/2.41b98a30.chunk.js.map",
+    "static/js/3.b92a3d13.chunk.js": "/po-prostu-syl.github.io/static/js/3.b92a3d13.chunk.js",
+    "static/js/3.b92a3d13.chunk.js.map": "/po-prostu-syl.github.io/static/js/3.b92a3d13.chunk.js.map",
+    "index.html": "/po-prostu-syl.github.io/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/po-prostu-syl.github.io/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.41b98a30.chunk.js.LICENSE.txt": "/po-prostu-syl.github.io/static/js/2.41b98a30.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/po-prostu-syl.github.io/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.482b0939.js",
+    "static/js/2.41b98a30.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.ed8dd1c1.chunk.js"
+  ]
+}
